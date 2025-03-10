@@ -7,7 +7,7 @@ const config = {
   },
 
   avatar: "/img/avatar.jpg", // 头像
-  welcometitle: "Hi, I'm Leleo", // 标题
+  welcometitle: "Hi, I'm 扶苏", // 标题
 
   // 颜色配置
   color: {
@@ -19,7 +19,7 @@ const config = {
   blur: 5, // 毛玻璃模糊效果
 
   // 我的标签
-  tags : ['乐观开朗','温柔体贴','随和亲切','冷静沉着','才思敏捷','风趣幽默','刚正不阿','善解人意'],
+  tags : ['Photoshop','illustrator','C4D','HTML','CSS'],
 
   // 默认背景壁纸
   background: {
