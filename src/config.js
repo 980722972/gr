@@ -19,7 +19,7 @@ const config = {
   blur: 5, // 毛玻璃模糊效果
 
   // 我的标签
-  技能 : ['Photoshop','Illustrator','C4D','HTML','CSS'],
+   ['Photoshop','Illustrator','C4D','HTML','CSS'],
 
   // 默认背景壁纸
   background: {
