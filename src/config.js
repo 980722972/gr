@@ -1,8 +1,8 @@
 const config = {
   //网页元数据
   metaData:{
-    title: 'Leleo的个人主页🎉',
-    description: '欢迎来到Leleo的奇妙世界！',
+    title: '扶苏的个人主页🎉',
+    description: '欢迎来到扶苏的奇妙世界！',
     keywords: 'Leleo,leleo,个人主页,个人网站'
   },
 
@@ -142,7 +142,7 @@ const config = {
     {go:"🔍 前往",img:"/img/sunshine.jpg",title:"Project 8",subtitle:"8,000 miles of wonder", text:"If you see this line, I've managed to get your attention.",url:"https://leleo.top",show:false},
   ],
   
-  statement: ["备案号：XXICP备123456789号","Copyright © 2025 Leleo"],
+  statement: ["备案号：浙江ICP备123456789号","Copyright © 2025 扶苏"],
 }
 
 export default config
